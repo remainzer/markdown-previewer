@@ -68,12 +68,12 @@ img {
 code {
   background-color:rgb(139, 207, 252);
   overflow: hidden;
+  width: 80%;
 }
 
 blockquote {
   font-style: italic;
   font-size: 18px;
-  background-color: rgb(255, 232, 203);
   border-left: 4px solid rgb(114, 114, 114);
   padding: 10px;
   margin: 5px 0;
