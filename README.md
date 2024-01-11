@@ -1,2 +1,2 @@
 #my app
- https://remainzer.github.io/markdown-previewer/
+https://remainzer.github.io/markdown_previewer/
